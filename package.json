@@ -1,5 +1,5 @@
 {
-    "name": "FLASH_MD-V1",
+    "name": "vero",
     "version": "1.0.1",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
